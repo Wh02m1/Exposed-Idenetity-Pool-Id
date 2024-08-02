@@ -10,4 +10,6 @@ You can read my write-up [here](https://medium.com/@abdelrahmanyousef33/full-con
 
 ```sh
 nuclei -t exposed-aws-identity-pool-id.yaml -u https://example.com
-![image](https://github.com/user-attachments/assets/a4bb2a95-5d68-442d-9a60-e0e25164ed74)
+```
+![image](https://github.com/user-attachments/assets/ebad3840-7378-472b-b810-a492a6578b98)
+
